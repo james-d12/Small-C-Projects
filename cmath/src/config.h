@@ -1,0 +1,20 @@
+#ifndef _CMATH_CONFIG_H
+#define _CMATH_CONFIG_H
+
+//#define _CMATH_ENABLE_ASSERT
+
+//#define _CMATH_VEC_USE_POINTER
+//#define _CMATH_VEC_USE_UNION
+//#define _CMATH_VEC_DOUBLE
+//#define _CMATH_VEC_LDOUBLE
+
+//#define _CMATH_MAT_USE_POINTER
+//#define _CMATH_MAT_USE_UNION
+//#define _CMATH_MAT_DOUBLE
+//#define _CMATH_MAT_LDOUBLE
+
+//#define _CMATH_GEOMETRY_USE_POINTER
+//#define _CMATH_GEOMETRY_DOUBLE
+//#define _CMATH_GEOMETRY_LDOUBLE
+
+#endif
